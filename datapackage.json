@@ -334,7 +334,7 @@
       "hash": "142e12a6a5ec728778fe3ff3ca2763f2",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/es-spain-2007-2013-erdf/concat.csv",
       "schema": {
         "fields": [
           {
