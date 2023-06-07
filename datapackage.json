@@ -12,6 +12,11 @@
     "nuts_code": "ES",
     "region": "ESPA\u00d1A"
   },
+  "countryCode": "ES",
+  "fiscalPeriod": {
+    "start": "2007-01-01",
+    "stop": "2013-12-31"
+  },
   "hash": "05fc20f74ba639907a273e6c8b0d60ae",
   "language": "de",
   "model": {
